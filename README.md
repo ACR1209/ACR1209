@@ -20,7 +20,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a WebView based app with push notifications: RoR and Flutter](https://medium.com/@andrescoronel1209/making-a-webview-based-app-with-push-notifications-ror-and-flutter-fab19f14b814?source=rss-6cc22157a8af------2)
-- [Building a URL Shortener with Flask and Redis](https://medium.com/@andrescoronel1209/building-a-url-shortener-with-flask-and-redis-96a35329a102?source=rss-6cc22157a8af------2)
+- [Building a URL Shortener with Flask and Redis](https://python.plainenglish.io/building-a-url-shortener-with-flask-and-redis-96a35329a102?source=rss-6cc22157a8af------2)
 - [Building a socket JSON based communication protocol using Python](https://medium.com/@andrescoronel1209/building-a-socket-json-based-communication-protocol-using-python-f9233c38d2f4?source=rss-6cc22157a8af------2)
 - [Let’s Build a Steganography CLI From Scratch](https://betterprogramming.pub/lets-build-an-steganography-cli-from-scratch-f91e80de595c?source=rss-6cc22157a8af------2)
 - [Making an Orchestrator From Scratch With Rust](https://betterprogramming.pub/making-an-orchestrator-from-scratch-with-rust-b112d6bb61dd?source=rss-6cc22157a8af------2)
