@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 <h3 align="center">A passionate fullstack developer/data analyst from Venezuela</h3>
 
+<a align="left" href="https://user-badge.committers.top/ecuador_private/ACR1209"> <img src="https://user-badge.committers.top/ecuador_private/ACR1209.svg" alt="acr1209" /> </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acr1209&label=Profile%20views&color=0e75b6&style=flat" alt="acr1209" /> </p>
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
