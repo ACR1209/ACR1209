@@ -20,7 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to build an accessible carousel without anoying users](https://medium.com/@andrescoronel1209/how-to-build-an-accessible-carousel-without-anoying-users-1ec320e4b465?source=rss-6cc22157a8af------2)
+- [How to build an accessible carousel without annoying users](https://medium.com/@andrescoronel1209/how-to-build-an-accessible-carousel-without-anoying-users-1ec320e4b465?source=rss-6cc22157a8af------2)
 - [Learn you a functional programming for great good!](https://medium.com/@andrescoronel1209/learn-you-a-functional-programming-for-great-good-16b327881b17?source=rss-6cc22157a8af------2)
 - [Making a WebView based app with push notifications: RoR and Flutter](https://medium.com/@andrescoronel1209/making-a-webview-based-app-with-push-notifications-ror-and-flutter-fab19f14b814?source=rss-6cc22157a8af------2)
 - [Building a URL Shortener with Flask and Redis](https://python.plainenglish.io/building-a-url-shortener-with-flask-and-redis-96a35329a102?source=rss-6cc22157a8af------2)
