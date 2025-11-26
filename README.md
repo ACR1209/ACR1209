@@ -20,11 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Dry FAQs Into a Conversational AI — It’s Surprisingly Easy](https://medium.com/@andrescoronel1209/turning-dry-faqs-into-a-conversational-ai-its-surprisingly-easy-089d9c2d5d32?source=rss-6cc22157a8af------2)
 - [Turn Your Rails App into an AI-Ready MCP Server with FastMCP](https://medium.com/@andrescoronel1209/turn-your-rails-app-into-an-ai-ready-mcp-server-with-fastmcp-883fcf165b96?source=rss-6cc22157a8af------2)
 - [Visual Discounts, Invisible to Some — And What Developers Can Do About It](https://medium.com/@andrescoronel1209/visual-discounts-invisible-to-some-and-what-developers-can-do-about-it-b694604f7014?source=rss-6cc22157a8af------2)
 - [How to build an accessible carousel without anoying users](https://medium.com/@andrescoronel1209/how-to-build-an-accessible-carousel-without-anoying-users-1ec320e4b465?source=rss-6cc22157a8af------2)
 - [Learn you a functional programming for great good!](https://medium.com/@andrescoronel1209/learn-you-a-functional-programming-for-great-good-16b327881b17?source=rss-6cc22157a8af------2)
-- [Making a WebView based app with push notifications: RoR and Flutter](https://medium.com/@andrescoronel1209/making-a-webview-based-app-with-push-notifications-ror-and-flutter-fab19f14b814?source=rss-6cc22157a8af------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
