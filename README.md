@@ -20,11 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Regression in Rails: How to Catch It Before Your Users Do](https://medium.com/@andrescoronel1209/prompt-regression-rails-catch-it-before-users-e26d75d2526b?source=rss-6cc22157a8af------2)
 - [Cutting AI API Costs by 40% with Semantic Caching in Rails](https://medium.com/@andrescoronel1209/reduce-ai-costs-rails-semantic-cache-5d3cae9456cb?source=rss-6cc22157a8af------2)
 - [Stop Building Silent Toasts: A 5-Minute Guide to aria-live](https://medium.com/@andrescoronel1209/accessible-toast-notifications-with-aria-live-1619ac6f25ba?source=rss-6cc22157a8af------2)
 - [Turning Dry FAQs Into a Conversational AI — It’s Surprisingly Easy](https://medium.com/@andrescoronel1209/turning-dry-faqs-into-a-conversational-ai-its-surprisingly-easy-089d9c2d5d32?source=rss-6cc22157a8af------2)
 - [Turn Your Rails App into an AI-Ready MCP Server with FastMCP](https://medium.com/@andrescoronel1209/turn-your-rails-app-into-an-ai-ready-mcp-server-with-fastmcp-883fcf165b96?source=rss-6cc22157a8af------2)
-- [Visual Discounts, Invisible to Some — And What Developers Can Do About It](https://medium.com/@andrescoronel1209/visual-discounts-invisible-to-some-and-what-developers-can-do-about-it-b694604f7014?source=rss-6cc22157a8af------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
